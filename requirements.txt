@@ -4,3 +4,5 @@ plotly
 matplotlib
 pymongo
 joblib
+fpdf
+fpdf2
