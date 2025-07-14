@@ -12,8 +12,6 @@ db = client["myDatabase"]
 collection = db["users"]
 
 # Load the trained model
-from my_model_classes import CustomClassifier  # define/import this
-
 model = joblib.load("credit_score_model.pkl")
 
 # Define feature columns
