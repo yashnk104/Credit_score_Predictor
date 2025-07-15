@@ -6,3 +6,4 @@ pymongo
 joblib
 fpdf
 fpdf2
+scikit-learn
